@@ -1,4 +1,4 @@
-# Socket - Full
+# Socket Project - Full
 
 Team: 
 
